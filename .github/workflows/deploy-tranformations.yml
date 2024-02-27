@@ -6,7 +6,7 @@ on:
         branches: [main]
         paths:
             - config/transformations/**
-            - .github/workflows/deploy-transformations.yml
+            - .github/workflows/deploy-tranformations.yml
 jobs:
     deploy:
         name: Deploy transformations
